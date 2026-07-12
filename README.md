@@ -1,1 +1,1 @@
-# leetcode-database-solutions
+# leetcode-database-problems-and-solutions
